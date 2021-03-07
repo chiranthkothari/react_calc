@@ -1,0 +1,9 @@
+.display {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 8px;
+  background-color: rgba(255, 255, 255, 0.74);
+  height: 90px;
+  flex-direction: column;
+}

@@ -1,0 +1,14 @@
+.button {
+  display: flex;
+  flex: 1;
+  height: 50px;
+  background-color: #fff;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.button_operators {
+  background-color: #06224a;
+  color: #bdf1f6;
+}
